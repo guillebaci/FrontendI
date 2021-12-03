@@ -1,0 +1,36 @@
+body{
+    
+}
+
+.perfil {
+    background-color: #BC8F8F;
+    height: 300px;
+    padding: 20px;
+}
+
+section{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color:#F8F8FF;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    color:#696969;
+    background-color: honeydew;
+}
+
+section{
+    max-width: 80%;
+    margin: 30px auto
+}
+
+footer {
+    color:white;
+    background-color:#2F4F4F;
+    text-align: center;
+    padding: 10px;
+}

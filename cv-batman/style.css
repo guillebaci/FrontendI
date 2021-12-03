@@ -1,0 +1,25 @@
+body {
+    font-family: serif;
+}
+
+header {
+    background-color: #E5E5E5;
+    text-align: center;
+}
+
+h1, h3 {
+    background-color:#C4C4C4;
+    color: #005677;
+    letter-spacing: 0.5em;
+}
+
+footer {
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 8px;
+}
+
+#datos-personales {
+    font-style: italic;
+}

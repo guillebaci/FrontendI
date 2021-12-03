@@ -1,0 +1,19 @@
+.al-lado {
+    display: inline-block;
+}
+
+footer{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+#mas {
+    color: white;
+    background-color: #3C2313;
+}
+
+nav{
+    color:white;
+    background-color: #F0A83E;
+}
